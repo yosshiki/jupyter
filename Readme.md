@@ -7,6 +7,7 @@
 3. jupyter hub
 1. other docker container (LC4RI、operation hub)  
 https://literate-computing.github.io/  
+https://github.com/NII-cloud-operation/OperationHub
 
 考えるべき事項  
 1.複数人で利用する→ jupyter hub  
