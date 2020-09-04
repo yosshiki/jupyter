@@ -5,7 +5,7 @@
 1. jupyter notebook(classic)
 2. jupyter lab
 3. jupyter hub
-1. other docker container (LC4RIのものなど)  
+1. other docker container (LC4RI、operation hub)  
 https://literate-computing.github.io/  
 
 考えるべき事項  
@@ -18,5 +18,6 @@ https://literate-computing.github.io/
 4.CLIでもやりたい  
 5.スケジュール実行したい  
 →いずれもpapermillで実行可能  
-6.結果が残るようにしたい  
-→4 にてmulti_output
+6.同じセルを実行しても過去の結果が残るようにしたい  
+→4 にてmulti_output  
+
